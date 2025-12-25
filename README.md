@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h3 align="center">Problem solver and eager to learn new skills</h3>
 
 
-##### I am a student and developer.
+#### I am a student and I like innovation.
 
 
 - 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 ##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsamannyaMukhopadhyay)  
 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]() -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/asamannya-mukhopadhyay)
+
+[<img src='https://www.pngegg.com/en/png-vepnh' alt='instagram' height='40'>](https://www.instagram.com/asamannya/)
 ---
 
 ## 📊 My Github Stats
