@@ -46,11 +46,10 @@ Here are some ideas to get you started:
 ##### I am a student and developer.
 
 
-- 🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology 
-- 👯 I’m looking to collaborate on Open Source Project
+- 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering
 - 📫 Reach me: asamannya@gmail.com
 - 💬 Ask me about Tech Related stuffs
-- 😄 Pronouns: He/His
+- 😄 Pronouns: She/Hers
 - ⚡ Fun fact: I love to travel!
 
  
