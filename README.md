@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ##### I am a student and developer.
 
 
-- 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering
+- 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
 - 📫 Reach me: asamannya@gmail.com
 - 💬 Ask me about Tech Related stuffs
 - 😄 Pronouns: She/Hers
