@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/asamannya-mukhopadhyay)
 
-[<img src='https://www.pngegg.com/en/png-vepnh' alt='instagram' height='40'>](https://www.instagram.com/asamannya/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asamannya/) 
 ---
 
 ## 📊 My Github Stats
