@@ -5,17 +5,17 @@
 #### I am a student and I like innovation.
 
 - 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
-- 
+
 - 📫 Reach me: asamannya@gmail.com
-- 
+
 - 💬 Ask me about Tech Related stuffs
-- 
+
 - 🏫 Clubs: Team Embelligence-Embedded Systems
-- 
+
 - 😄 Pronouns: She/Hers
-- 
+
 - ⚡ Fun fact: I love to travel!
-- 
+
 ---
 
 ##### Online Presence
@@ -38,10 +38,4 @@
     <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-stats"><img alt="Asamannya Mukhopadhyay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsamannyaMukhopadhyay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/
 ![](https://komarev.com/ghpvc/?username=AsamannyaMukhopadhyay&color=blue&tyle=plastic)
-  
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
-
-
-
-
