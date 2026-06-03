@@ -1,20 +1,35 @@
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Asamannya Mukhopadhyay </h1>
 <img align="right" src="https://github.com/AsamannyaMukhopadhyay/AsamannyaMukhopadhyay/blob/main/developer.gif" alt="Hola Coders" width="450" height="350"/>
 <h3 align="center">Problem solver and eager to learn new skills</h3>
+
 #### I am a student and I like innovation.
+
 - 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
+- 
 - 📫 Reach me: asamannya@gmail.com
+- 
 - 💬 Ask me about Tech Related stuffs
+- 
 - 🏫 Clubs: Team Embelligence-Embedded Systems
+- 
 - 😄 Pronouns: She/Hers
+- 
 - ⚡ Fun fact: I love to travel!
+- 
 ---
+
 ##### Online Presence
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsamannyaMukhopadhyay)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsamannyaMukhopadhyay) 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/asamannya-mukhopadhyay)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asamannya/) 
+
 ---
+
 ## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Asamannya Mukhopadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsamannyaMukhopadhyay&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a></p>
