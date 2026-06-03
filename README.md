@@ -39,3 +39,6 @@ Here are some ideas to get you started:
  <!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vercel.com/arnab2001/portfoliosite) -->
 [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/asamannya-mukhopadhyay)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/asamannya/)
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
