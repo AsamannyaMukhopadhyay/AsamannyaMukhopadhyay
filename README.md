@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Asamannya Mukhopadhyay </h1>
 
 <img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="350" height="450"/>
 <!-- <img align="right" src="https://github.com/Deba951/assets/blob/main/dev.gif" alt="Hola Coders" width="350" height="350"/> -->
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 - 🌱 I'm pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
 - 🏫 Clubs: Team Embelligence-Embedded Systems
-- 💻 Currently learning: C and Python programming
+- 💻 Currently learning languages: C and Python programming
+- 📚 Courses completed: Basic electronics, PCB Design
 - 😄 Pronouns: She/Hers
 - ⚡ Fun fact: I love to travel!
 - 📷 Hobbies: Photography
