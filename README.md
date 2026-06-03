@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm pursuing B.Tech. in Electronics and Communication Engineering at
 
-  SRM Institute of Science & Technology, Kattankulathur, Chennai
+      SRM Institute of Science & Technology, Kattankulathur, Chennai
 - 🏫 Clubs: Team Embelligence-Embedded Systems
 - 💻 Currently learning languages: C and Python programming
 - 📚 Courses completed: Basic electronics, PCB Design
