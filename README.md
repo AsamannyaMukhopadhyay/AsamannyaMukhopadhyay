@@ -1,42 +1,39 @@
-<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Asamannya Mukhopadhyay </h1>
-<img align="right" src="https://github.com/AsamannyaMukhopadhyay/AsamannyaMukhopadhyay/blob/main/developer.gif" alt="Hola Coders" width="450" height="350"/>
-<h3 align="center">Problem solver and eager to learn new skills</h3>
+<!--### Hi there 👋-->
 
-#### I am a student and I like innovation.
+<!--
+**Deba951/Deba951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Asamannya Mukhopadhyay </h1>
+
+<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="350" height="450"/>
+<!-- <img align="right" src="https://github.com/Deba951/assets/blob/main/dev.gif" alt="Hola Coders" width="350" height="350"/> -->
+
+
+<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> I am and Engineering Student.</h2></summary>
 
 - 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
-
 - 🏫 Clubs: Team Embelligence-Embedded Systems
-
 - 😄 Pronouns: She/Hers
-
 - ⚡ Fun fact: I love to travel!
-
 - 📷 Hobbies: Photography
 
----
 
-##### Online Presence
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsamannyaMukhopadhyay) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/asamannya-mukhopadhyay)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asamannya/) 
-
----
-
-## 📊 My Github Stats
-
-<p align="center">
-    <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Asamannya Mukhopadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsamannyaMukhopadhyay&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a></p>
-        
- <br/>
-    <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-stats"><img alt="Asamannya Mukhopadhyay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsamannyaMukhopadhyay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-stats"><img alt="Asamannya Mukhopadhyay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsamannyaMukhopadhyay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/
-
-![](https://komarev.com/ghpvc/?username=AsamannyaMukhopadhyay&color=blue&tyle=plastic)
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
+<!-- <p align = "center">
+</p> -->
+ <!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vercel.com/arnab2001/portfoliosite) -->
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/asamannya-mukhopadhyay)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/asamannya/)
