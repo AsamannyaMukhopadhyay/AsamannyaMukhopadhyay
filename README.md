@@ -6,15 +6,13 @@
 
 - 🌱 I’m pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
 
-- 📫 Reach me: asamannya@gmail.com
-
-- 💬 Ask me about Tech Related stuffs
-
 - 🏫 Clubs: Team Embelligence-Embedded Systems
 
 - 😄 Pronouns: She/Hers
 
 - ⚡ Fun fact: I love to travel!
+
+- 📷 Hobbies: Photography
 
 ---
 
