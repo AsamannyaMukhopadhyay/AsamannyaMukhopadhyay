@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github.com/Deba951/assets/blob/main/dev.gif" alt="Hola Coders" width="350" height="350"/> -->
 
 
-<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> I am and Engineering Student.</h2></summary>
+<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> I am an Engineering Student.</h2></summary>
 
 - 🌱 I'm pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur
 - 🏫 Clubs: Team Embelligence-Embedded Systems
