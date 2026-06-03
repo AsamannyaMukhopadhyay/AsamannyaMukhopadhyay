@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 <summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> I am an Engineering Student.</h2></summary>
 
-- 🌱 I'm pursuing B.Tech. in Electronics and Communication Engineering at SRM Institute of Science & Technology, Kattankulathur, Chennai
+- 🌱 I'm pursuing B.Tech. in Electronics and Communication Engineering at
+  SRM Institute of Science & Technology, Kattankulathur, Chennai
 - 🏫 Clubs: Team Embelligence-Embedded Systems
 - 💻 Currently learning languages: C and Python programming
 - 📚 Courses completed: Basic electronics, PCB Design
