@@ -35,5 +35,6 @@
     <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-stats"><img alt="Asamannya Mukhopadhyay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsamannyaMukhopadhyay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/AsamannyaMukhopadhyay/github-readme-stats"><img alt="Asamannya Mukhopadhyay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsamannyaMukhopadhyay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/
+
 ![](https://komarev.com/ghpvc/?username=AsamannyaMukhopadhyay&color=blue&tyle=plastic)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
